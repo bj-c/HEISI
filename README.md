@@ -1,0 +1,1 @@
+﻿# Hybrid error concealment method combining exemplar-based image inpainting and spatial interpolation, This software is the implementation for the following publication. B. Chung and C. Yim,"Hybrid error concealment method combining exemplar-based image inpainting and spatial interpolation," Signal Processing: Image Communication, 2014.
