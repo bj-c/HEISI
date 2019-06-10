@@ -1,0 +1,32 @@
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 697098633 
+	Processing Time : 1078005242
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 34.109197.2 
+	Processing Time : 4196
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 4228
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 4243
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 1513
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 1482
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 1497
+=================== C:\Users\BJ\Desktop\comfile\HybridInterpolation\result.bmp ===================
+	PSNR : 34.11 
+=================== result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 3656
+=================== result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 3407
+=================== result.bmp ===================
+	PSNR : 34.11 
+	Processing Time : 3343
